@@ -1,7 +1,6 @@
 ---
 layout: post
-title: I was not going to stand by and see another Marine die just to live
-tags: [frontpage, jekyll, blog]
+title: Transit redesign, adding functionality for Sheridan students.
 image: '/images/posts/6.jpg'
 ---
 
