@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random stuff, things that aren't worthy for the front page.
+title: About
 image: '/images/posts/4.jpg'
 permalink: /about/
 ---
