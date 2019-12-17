@@ -1,9 +1,7 @@
 {% for page in site.pages %}
   {% unless page.name == '404.md' %}
     {% if page.title %}
-<div class='c-nav u-text-right'>
-        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
-</div>
+        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>&nbsp;&nbsp;{{ page.title }}</a>
     {% endif %}
   {% endunless %}
 {% endfor %}
