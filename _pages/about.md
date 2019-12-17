@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: about
 image: '/images/posts/8.jpg'
 ---
