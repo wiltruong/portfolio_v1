@@ -9,7 +9,10 @@
             <h1>Hiya! I am a <div class='bg'>
               <span style="background-color: #ffa726">UI / UX / Product / Game / Graphic Designer.</span></div> 
               I make awesome things for people. 
-              Click <a class='c-nav__link' href='{{ about.url | prepend: site.baseurl }}'>here</a> to know more about me or see my work below.</h1>
+              Click <li class='c-nav__item' role='presentation'>
+        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+      </li> 
+              to know more about me or see my work below.</h1>
           </div>
         </div>
 
