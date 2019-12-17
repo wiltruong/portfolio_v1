@@ -2,12 +2,6 @@
   Components > Post Card
 \*------------------------------------*/
 
-.c-post-card {
-  display: block;
-  padding: double($base-spacing-unit) 0;
-  word-break: break-word;
-  border-bottom: 1px solid $color-border;
-
   &--first {
     padding-top: 0;
   }
