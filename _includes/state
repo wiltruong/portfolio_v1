@@ -1,0 +1,18 @@
+<header class='c-header'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <div class='c-header__inner'>
+          
+        <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--3-4-s'>
+            <div class='c-logo u-text-left'>
+              <h1>Hiya! I am a UI / UX / Product / Game / Graphic Designer. I make awesome things for people</h1>
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </div>
+
+</header>
