@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The senate that our ability to use the force has diminished
-tags: [frontpage, jekyll, blog]
+title: New Game +, a new way of recommending games.
 image: '/images/posts/5.jpg'
 permalink: /newgameplus/
 ---
