@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The reason we're gathered here on our God-given, much-naeeded day
-tags: [frontpage, jekyll, blog]
+title: Eco-Life, creating awareness on your carbon footprint.
 image: '/images/posts/8.jpg'
 ---
 
