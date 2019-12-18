@@ -10,7 +10,8 @@
   &__link {
     display: block;
     transition: $global-transition;
-    margin-left: 40px;
+    text-align: right;
+    width: 100%;
 
     &--current {
       color: $color-brand;
