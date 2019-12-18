@@ -1,7 +1,13 @@
 {% for page in site.pages %}
   {% unless page.name == '404.md' %}
     {% if page.title %}
-        <a class='c-nav__link u-text-right' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+
+ <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--3-4-s'>
+            <div class='c-logo u-text-right'>
+              <a class='c-nav__link u-text-right' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+            </div>
+          </div>
     {% endif %}
   {% endunless %}
 {% endfor %}
