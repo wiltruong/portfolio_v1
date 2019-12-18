@@ -11,6 +11,7 @@
     display: block;
     transition: $global-transition;
     text-align: right;
+    width: 80%;
 
     &--current {
       color: $color-brand;
