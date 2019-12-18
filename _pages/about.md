@@ -29,6 +29,6 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 <br>
 <h1>Want to chat?</h1>
-I'm always interested in looking for new opportunities! You can contact me at: truongwilson@gmail.com or through <a href='https://www.linkedin.com/in/wiltruong/'>LinkedIn</a>.
+I'm always interested in looking for new opportunities! You can contact me at: truongwilson@gmail.com or through <a href="https://www.linkedin.com/in/wiltruong/" style="text-decoration:none">LinkedIn</a>.
 
 <br><br>
