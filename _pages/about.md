@@ -26,4 +26,8 @@ Having seen the evolve in design from the early 2000s until now, it has drastica
 > Going beyond in unconventional means.
 
 Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
+
+<br><br>
+<h1>Want to chat?</h1>
+I'm always interested in looking for new opportunities! You can contact me at: truongwilson@gmail.com or through LinkedIn.
 <br><br>
