@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Game +, a new way of recommending games.
-image: '/images/posts/5.jpg'
+image: '/images/posts/newgame.png'
 permalink: /newgameplus/
 ---
 
