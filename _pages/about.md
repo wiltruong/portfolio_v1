@@ -5,13 +5,15 @@ image: '/images/posts/tohru.png'
 permalink: /about/
 ---
 
-##### Hello!
+<br><br>
+##### <h1>Hello!</h1>
 
 I’m currently an Interaction Design student at Sheridan College, now in my second year, I’m learning lots about UX/UI and want to do more with UI design. I have a background in Human Resources and Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills.
 
 I’m motivated to design things that involve with diversity and accessibility. From my background in Human Resources, diversity is important to me. I also love working on product design and figuring out how users can interact in different ways.
 
-##### My design philosophy 
+<br><br>
+##### <h1>My design philosophy</h1>
 
 > My designs need to be accessible by everyone.
 
