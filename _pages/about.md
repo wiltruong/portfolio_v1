@@ -5,7 +5,7 @@ image: '/images/posts/tohru.png'
 permalink: /about/
 ---
 
-<h1>Hello!</h1>
+##### Hello!
 
 I’m currently an Interaction Design student at Sheridan College, now in my second year, I’m learning lots about UX/UI and want to do more with UI design. I have a background in Human Resources and Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills.
 
