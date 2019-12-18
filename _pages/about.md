@@ -5,27 +5,22 @@ image: '/images/posts/tohru.png'
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+<h1>Hello!</h1>
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+I’m currently an Interaction Design student at Sheridan College, now in my second year, I’m learning lots about UX/UI and want to do more with UI design. I have a background in Human Resources and Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills.
 
-##### Todo
+I’m motivated to design things that involve with diversity and accessibility. From my background in Human Resources, diversity is important to me. I also love working on product design and figuring out how users can interact in different ways.
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+##### My design philosophy 
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
+> My designs need to be accessible by everyone.
 
-##### Graphic design
+As a UX/UI designer, I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a Recruiter, I care about diversity. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
 
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+> Design should be simple and clean.
 
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
+Having seen the evolve in design from the early 2000s until now, it has drastically changed with companies like Apple and Google. I believe that design should be simple and clean, not overly complicated but enabling the user to understand the purpose of the product of application. When things are simple, the allows the user to be stress free and enjoy the things that they want the fullest.
 
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
+> Going beyond in unconventional means.
 
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
