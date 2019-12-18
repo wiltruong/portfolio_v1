@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: about me
 image: '/images/posts/tohru.png'
 permalink: /about/
