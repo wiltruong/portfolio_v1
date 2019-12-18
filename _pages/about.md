@@ -5,14 +5,14 @@ image: '/images/posts/tohru.png'
 permalink: /about/
 ---
 
-<br><br>
+<br>
 <h1>Hello!</h1>
 
 I’m currently an Interaction Design student at Sheridan College, now in my second year, I’m learning lots about UX/UI and want to do more with UI design. I have a background in Human Resources and Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills.
 
 I’m motivated to design things that involve with diversity and accessibility. From my background in Human Resources, diversity is important to me. I also love working on product design and figuring out how users can interact in different ways.
 
-<br><br>
+<br>
 <h1>My design philosophy</h1>
 
 > My designs need to be accessible by everyone.
@@ -27,7 +27,7 @@ Having seen the evolve in design from the early 2000s until now, it has drastica
 
 Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
 
-<br><br>
+<br>
 <h1>Want to chat?</h1>
 I'm always interested in looking for new opportunities! You can contact me at: truongwilson@gmail.com or through <a class='c-logo__link' href='https://www.linkedin.com/in/wiltruong/'>LinkedIn</a>.
-<br><br>
+<br>
