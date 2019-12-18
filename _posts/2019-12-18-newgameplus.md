@@ -5,6 +5,35 @@ image: '/images/posts/newgame.png'
 permalink: /newgameplus/
 ---
 
+<br>
+
+<table>
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+<thead>
+<tr align="left">
+<th>Project details</th>
+<th>Overview</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span"><b>Time:</b> 3 weeks</td>
+<td rowspan="3">This is a first year final project in my Interaction 1 class, utilizing the Javascript knowledge that I built up from the start of the term. The project was to create a web app of anykind, as long it does one thing well.</td>
+</tr>
+<tr>
+<td markdown="span"><b>Role:</b> Ideation, UX, UI, prototyping, and coding</td>
+</tr>
+<tr>
+<td markdown="span"><b>Team:</b> 2 people (incl. me)</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
 Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
 
 Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
