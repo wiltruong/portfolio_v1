@@ -18,6 +18,12 @@
     backgroundColor: 'rgb(33, 33, 33)',
     textColor: '#fff'
   })</script>
+  
+  <script>
+  document.addEventListener("DOMContentLoaded", function(e) {
+    document.body.classList.remove('fade');
+  });
+  </script>
 
   <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
