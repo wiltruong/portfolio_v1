@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Visual design, a collection of posters and other things.
-image: '/images/posts/newgame.png'
 permalink: /visual/
 ---
 
