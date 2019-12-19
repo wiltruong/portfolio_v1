@@ -15,13 +15,3 @@
 @import 'embed';
 @import 'social-nav';
 @import 'footer';
-
-body {
-  opacity: 1;
-  transition: 0.7s opacity;
-}
-
-body.fade {
-    opacity: 0;
-    transition: none;
-}
