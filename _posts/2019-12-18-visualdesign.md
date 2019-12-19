@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: Visual design, a collection of posters and other things.
 image: '/images/posts/visual.png'
 permalink: /visual/
