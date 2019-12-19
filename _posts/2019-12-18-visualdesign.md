@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visual design, a collection of posters and other things.
+image: '/images/posts/visual.png'
 permalink: /visual/
 ---
 
