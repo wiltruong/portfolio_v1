@@ -19,7 +19,7 @@ permalink: /visual/
 
 <br>
 
-![image](/images/posts/visual4.png)
+![image](/images/posts/visual4.jpg)
 
 <br>
 
