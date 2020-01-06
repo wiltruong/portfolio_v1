@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: about
 image: '/images/posts/tohru.png'
 permalink: /about/
 ---
