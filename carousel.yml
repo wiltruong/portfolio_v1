@@ -1,5 +1,4 @@
 images: 
-  - image: /uploads/slider/image1.jpg
-  - image: /uploads/slider/image2.jpg
-  - image: /uploads/slider/image3.jpg
-  - image: /uploads/slider/image4.jpg
+  - image: /images/posts/transit2.png
+  - image: /images/posts/transit3.png
+  - image: /images/posts/transit4.png
