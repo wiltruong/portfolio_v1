@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Super Slime Adventure, a platformer about slimes.
-image: '/images/posts/game5.jpg'
+image: '/images/posts/game6.jpg'
 permalink: /superslime/
 ---
 
