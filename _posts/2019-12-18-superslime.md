@@ -24,7 +24,7 @@ permalink: /superslime/
 <td rowspan="3">This was a passion project that I worked on in my first summer (2019), ever since I returned back to school in 2018. I wanted to develop a game from scratch and design my own sprites.</td>
 </tr>
 <tr>
-<td markdown="span"><b>Role:</b> Game development, sprite design, UI, UX, and coding (GML)</td>
+<td markdown="span"><b>Role:</b> Game development, design, and coding (GML)</td>
 </tr>
 <tr>
 <td markdown="span"><b>Team:</b> Me, myself, and I</td>
