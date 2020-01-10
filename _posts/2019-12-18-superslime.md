@@ -80,6 +80,8 @@ With power ups, I decided to hide them somewhere in each level. The power ups do
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kOHQVN347fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 ### The take aways
 
 I felt that the result was great but not perfect as there was a lot to improve. I tested this game with a few friends and the feedback that they gave were:
