@@ -34,7 +34,7 @@ permalink: /superslime/
 
 <br>
 
-### The idea
+### Can I make a game in 4 months?!
 
 This pet project was to learn about game development and level design. I decided to work on this during the summer (2019) as I felt it that I could create a small game in just 3-4 months. The game engine that I developed the on was GameMaker Studio 2, it was simple to use and the coding aspects was fairly similar to Javascript (in a way). I used a tutorial by Shaun Spalding on <a href="https://www.youtube.com/channel/UCn7FE3Tx391g1tWPv-1tv7Q">YouTube</a>, which gave me an in-depth look in the platform and how to code certain things. The game is a bit similar to the tutorial, as I followed it, but very different as the assets and level design were done by myself.
     
