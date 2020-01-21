@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-image: '/images/posts/tohru.png'
+image: '/images/posts/cat1.png'
 permalink: /about/
 ---
 
