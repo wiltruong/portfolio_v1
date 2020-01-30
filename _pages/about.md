@@ -15,15 +15,15 @@ I’m motivated to design things that involve with diversity and accessibility. 
 <br>
 <h1>My design philosophy</h1>
 
-> My designs need to be accessible by everyone.
+> Thinking about everyone and everyone inbetween.
 
 As a UX/UI designer, I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a Recruiter, I care about diversity. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
 
-> Design should be simple and clean.
+> Simplicity is key to everything.
 
 Having seen the evolve in design from the early 2000s until now, it has drastically changed with companies like Apple and Google. I believe that design should be simple and clean, not overly complicated but enabling the user to understand the purpose of the product of application. When things are simple, the allows the user to be stress free and enjoy the things that they want the fullest.
 
-> Going beyond in unconventional means.
+> Going beyond the unconventional.
 
 Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
 
