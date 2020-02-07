@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-image: '/images/posts/cat1.png'
+image: '/images/posts/photoofme.png'
 permalink: /about/
 ---
 
