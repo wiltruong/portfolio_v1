@@ -3,6 +3,13 @@
   <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
     <h3 class='c-post-card__title'>> {{ post.title }}</h3>
     
+            <div class='c-tags'>
+          {% for tag in page.tags %}
+            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
+
+    
     {% if post.image %}
       <img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
     {% endif %}
