@@ -11,6 +11,9 @@
 
   <div class='o-grid'>
     {% for post in page.posts %}
+        <div class='c-tags'>
+          <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+        </div>
     {% endfor %}
   </div>
 
