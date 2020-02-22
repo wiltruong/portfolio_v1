@@ -4,7 +4,7 @@
 
 .c-post-card {
   display: block;
-  padding: $base-spacing-unit double($base-spacing-unit);
+  padding: $base-spacing-unit 0 double($base-spacing-unit);
   word-break: break-word;
   border-bottom: 1px solid $color-border;
 
