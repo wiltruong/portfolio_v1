@@ -11,7 +11,7 @@
 
   </a>
   
-     {% if page.tags %}
+     {% if tag in page.tags %}
         <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
      {% endif %}
      
