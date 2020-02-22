@@ -7,12 +7,17 @@
       <img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
     {% endif %}
 
+  <div class='o-wrapper'>
   <div class='o-grid'>
+    <div class='o-grid__col'>
   <div class='c-tags'>
     {% for tag in post.tags  %}
-          {{ tag }}
+          <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
     {% endfor %}
     </div>
+  </div>
+  </div>
+  </div>
   </div>
 
   </a>
