@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Super Slime Adventure, a platformer about slimes.
+tags: [UI/UX, Visual Design, Game Development]
 image: '/images/posts/game7.png'
 permalink: /superslime/
 ---
