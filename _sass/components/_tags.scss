@@ -5,7 +5,7 @@
 .c-tags {
   a {
     display: inline-block;
-    padding: $base-spacing-unit $base-spacing-unit;
+    padding: quarter($base-spacing-unit) $base-spacing-unit;
     margin: 0 half($base-spacing-unit) quarter($base-spacing-unit) 0;
 
     font-size: $font-size-tiny;
