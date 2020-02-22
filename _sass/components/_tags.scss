@@ -19,8 +19,4 @@
       background-color: $bg-color-gray;
     }
   }
-
-  @include mq($until: tablet) {
-    margin-bottom: $line-height-medium - half(quarter($line-height-medium));
-  }
 }
