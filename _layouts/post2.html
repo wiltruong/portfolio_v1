@@ -19,6 +19,12 @@ layout: default
         <div class='c-content' itemprop='articleBody'>
           {{ content }}
         </div>
+        
+               <div class='c-tags'>
+          {% for tag in page.tags %}
+            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
 
       </article>
 
