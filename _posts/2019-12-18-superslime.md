@@ -52,6 +52,8 @@ This pet project was to learn about game development and level design. I decided
   </tr>
 </table>
     
+ ![image](/images/posts/llama.png)   
+    
 <br>
 
 ### Planning and more planning
