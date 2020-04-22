@@ -43,7 +43,7 @@ This pet project was to learn about game development and level design. I decided
   <tr>
     <th><img src="https://wilsontruong.com/images/posts/llama.png"></th>
     <th>![image](/images/posts/llama.png)<br></th>
-    <th>![image](/images/posts/llama.png)</th>
+    <th>![](../../blob/master/images/llama.png)</th>
   </tr>
   <tr>
     <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
