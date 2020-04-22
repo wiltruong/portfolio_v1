@@ -1,7 +1,7 @@
 ---
 layout: post2
 title: Visual design, a collection of posters and other things.
-tags: [Visual Design, Graphic Design]
+tags: [Visual Design, Graphic Design, Illustration]
 image: '/images/posts/visual.png'
 permalink: /visual/
 ---
