@@ -34,7 +34,6 @@ Having seen the evolve in design from the early 2000s until now, it has drastica
 Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
 
 <br>
-
 <h1>Want to chat?</h1>
 I'm always looking for new opportunities! You can contact me via <a href="mailto:hello@wilsontruong.com?Subject=Hello!" target="_top">e-mail</a> or through <a href="https://www.linkedin.com/in/wiltruong/">LinkedIn</a>.
 
