@@ -41,7 +41,7 @@ This pet project was to learn about game development and level design. I decided
 
 <table>
   <tr>
-    <th><img src="images/posts/llama.png"></th>
+    <th><img src="https://wilsontruong.com/images/posts/llama.png"></th>
     <th>![image](/images/posts/llama.png)<br></th>
     <th>![image](/images/posts/llama.png)</th>
   </tr>
