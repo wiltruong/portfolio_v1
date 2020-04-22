@@ -41,14 +41,14 @@ This pet project was to learn about game development and level design. I decided
 
 <table>
   <tr>
-    <th>image1</th>
-    <th>image2<br></th>
-    <th>image3</th>
+    <th>![image](/images/posts/llama.png)</th>
+    <th>![image](/images/posts/llama.png)<br></th>
+    <th>![image](/images/posts/llama.png)</th>
   </tr>
   <tr>
-    <td>text1</td>
-    <td>text2</td>
-    <td>text3</td>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vulputate, sem eget dictum ornare, orci augue pellentesque est, id suscipit erat eros et tortor.</td>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vulputate, sem eget dictum ornare, orci augue pellentesque est, id suscipit erat eros et tortor.</td>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vulputate, sem eget dictum ornare, orci augue pellentesque est, id suscipit erat eros et tortor.</td>
   </tr>
 </table>
     
