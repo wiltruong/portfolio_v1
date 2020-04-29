@@ -7,6 +7,10 @@ permalink: /visual/
 
 <br>
 
+![image](/images/posts/kitty.png)
+
+<br>
+
 ![image](/images/posts/hackville1.png)
 
 <br>
