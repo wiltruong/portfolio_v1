@@ -30,14 +30,11 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 <h1>I been to stuff and won</h1>
 
-Adobe Creative Jam 2018, GTA Creative Schools
-> Third place
+Adobe Creative Jam 2018, GTA Creative Schools - Third place
 
-Adobe Creative Jam 2019, GTA Creative Schools
-> Participant
+Adobe Creative Jam 2019, GTA Creative Schools - Participant
 
-DeltaHacks VI
-> Participant
+DeltaHacks VI - Participant
 
 <br>
 
