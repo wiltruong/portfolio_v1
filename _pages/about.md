@@ -8,16 +8,15 @@ permalink: /about/
 <br>
 <h1>Hello!</h1>
 
-I’m currently an Interaction Design student at Sheridan College, now in my second year, I’m learning lots about UX/UI and want to do more with UI design. I have a background in Human Resources and Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills.
-
-I’m motivated to design things that involve with diversity and accessibility. From my background in Human Resources, diversity is important to me. I also love working on product design and figuring out how users can interact in different ways.
+I’m a third year, Interaction Design student at Sheridan College. I have a background in Human Resources/Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills. I love working on UI design and figuring out how users can interact with it in different ways! Other than that... I love to figure out ways to make my designs be accessible and include diversity & inclusion.
 
 <br>
+
 <h1>My design philosophy</h1>
 
 > Thinking about everyone and everyone in-between.
 
-I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a Recruiter, I care about diversity. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
+I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a Recruiter, I care about diversity, inclusion and accessibility. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
 
 > Simplicity is key to everything.
 
@@ -28,6 +27,7 @@ Having seen design evolve from the early 2000s until now, it has drastically cha
 Being a designer means to me is the freedom to go beyond what everyone is doing. Whether if it is creating something that is unconventional, or going beyond the present, I strive to create something unique that would enable those to think.
 
 <br>
+
 <h1>Want to chat?</h1>
 I'm always looking for new opportunities! You can contact me via <a href="mailto:hello@wilsontruong.com?Subject=Hello!" target="_top">e-mail</a> or through <a href="https://www.linkedin.com/in/wiltruong/">LinkedIn</a>.
 
