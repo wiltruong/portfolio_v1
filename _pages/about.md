@@ -16,7 +16,7 @@ I’m a third year, Interaction Design student at Sheridan College. I have a bac
 
 > Thinking about everyone and everyone in-between.
 
-I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a Recruiter, I care about diversity, inclusion and accessibility. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
+I think about the user at hand, how he/she uses it and who will be using it. With my previous experience as a recruiter, I care about diversity, inclusion and accessibility. When I say design should be accessible to everyone, I mean everyone. Those who have a disability, or the elderly, or LGBT+ or even someone who isn’t familiar with technology, those are the “everyone” that I speak to.
 
 > Simplicity is key to everything.
 
