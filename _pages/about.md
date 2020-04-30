@@ -28,7 +28,7 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 <br>
 
-<h1>I been to stuff and won</h1>
+<h1>I been to stuff</h1>
 
 Adobe Creative Jam 2018, GTA Creative Schools - Third place
 
