@@ -8,8 +8,10 @@
   }
 
   &__link {
+    padding-left: 10px;
+    padding-right: 10px;
     transition: $global-transition;
-    text-align: left;
+    text-align: right;
     
     &--current {
       color: $color-brand;
