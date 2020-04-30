@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: Visual design, things that are fun and not ui/ux.
+title: Visual design, a collection of fun things that are not ui/ux related.
 image: '/images/posts/visual.png'
 permalink: /visual/
 ---
