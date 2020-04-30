@@ -28,6 +28,19 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 <br>
 
+<h1>I been to stuff and won</h1>
+
+Adobe Creative Jam 2018, GTA Creative Schools
+> Third place
+
+Adobe Creative Jam 2019, GTA Creative Schools
+> Participant
+
+DeltaHacks VI
+> Participant
+
+<br>
+
 <h1>Want to chat?</h1>
 I'm always looking for new opportunities! You can contact me via <a href="mailto:hello@wilsontruong.com?Subject=Hello!" target="_top">e-mail</a> or through <a href="https://www.linkedin.com/in/wiltruong/">LinkedIn</a>.
 
