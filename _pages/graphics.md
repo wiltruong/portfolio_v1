@@ -1,5 +1,5 @@
 ---
 layout: about
-title: not ui/ux
+title: visual
 permalink: /graphicdesign/
 ---
