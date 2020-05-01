@@ -4,6 +4,7 @@
 
 .c-post-card {
   display: block;
+  padding-bottom: $base-spacing-unit;
   word-break: break-word;
 
   &--first {
