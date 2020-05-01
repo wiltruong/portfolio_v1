@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: visual
+title: not ux/ui
 permalink: /visualdesign/
 ---
 
