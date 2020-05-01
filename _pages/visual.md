@@ -4,7 +4,7 @@ title: visual
 permalink: /visualdesign/
 ---
 
-<h1>Bunch of fun visual design stuff that I did in my classes and club activities</h1>
+<h1>Bunch of fun visual/graphic design stuff that I did in my classes, club activities, and outside of class</h1>
 
 <br>
 
