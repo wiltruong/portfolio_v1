@@ -2,7 +2,7 @@
 layout: about
 title: fun
 image: '/images/posts/photoofme.png'
-permalink: /about/
+permalink: /fun/
 ---
 
 <br>
