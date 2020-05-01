@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: fun
 image: '/images/posts/photoofme.png'
 permalink: /about/
 ---
