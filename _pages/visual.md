@@ -6,6 +6,8 @@ permalink: /visualdesign/
 
 <h1>Fun visual/graphic design stuff</h1>
 
+This is a collection of work that I did for my visual design classes and other things like Hackademics (the club that I'm in), personal work, and random stuff that looks cool.
+
 <br>
 
 ![image](/images/posts/kitty.png)
