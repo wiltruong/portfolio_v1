@@ -5,12 +5,12 @@
 .c-nav {
   &__item {
     font-size: $font-size-medium;
-    font-weight: $font-weight-bold;
   }
 
   &__link {
     transition: $global-transition;
     text-align: right;
+    font-weight: $font-weight-bold;
     
     &--current {
       color: $color-brand;
