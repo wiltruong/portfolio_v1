@@ -12,7 +12,7 @@
     text-align: right;
     
     &--current {
-      color: $color-brand;
+      color: $color-link;
 
       .home-template &:not(:hover) {
         color: $color-link;
