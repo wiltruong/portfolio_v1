@@ -4,13 +4,13 @@
 
 .c-nav {
   &__item {
-    font-size: $font-size-medium;
+    font-size: $font-size-large;
   }
 
   &__link {
     transition: $global-transition;
     text-align: right;
-    font-size: $font-size-medium;
+    font-size: $font-size-large;
     font-weight: $font-weight-bold;
     
     &--current {
