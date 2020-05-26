@@ -20,10 +20,16 @@
     textColor: '#fff'
   })</script>
   
+  
+  <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script> 
   <script src="{{ '/js/jquery-3.5.0.min.js' | prepend: site.baseurl }}"> </script>
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
+  <script>
+    import Swup from 'swup';
+    const swup = new Swup(); // only this line when included with script tag
+  </script>
  
 </body>
 
