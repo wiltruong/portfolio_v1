@@ -6,15 +6,8 @@ a {
   text-decoration: none;
   color: $color-link;
   transition: $global-transition;
-  
-  &--current {
-      color: $color-brand;
-
-      .home-template &:not(:hover) {
-        color: $color-link;
-      }
 
   @include attention() {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
