@@ -37,7 +37,7 @@ permalink: /ubinext2020/
 
 ### Designing a game UI from scratch?!
 
-This project was done throughout the course term and revolved around a single topic: Climate change. This topic was huge and obviously I had to tackle it from a different direction. I had a few questions to myself: 
+One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to UI/UX, the aspiration of working on UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and also mock ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area. Although, I thought it would be easy but I had to pay attention to a few things:
 
 <br>
 
@@ -53,15 +53,15 @@ This project was done throughout the course term and revolved around a single to
     <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
   </tr>
   <tr>
-    <td align="center">How can I create awareness?</td>
-    <td align="center">How can I educate the user?</td>
-    <td align="center">What can the user get out of it?</td>
+    <td align="center">Accessibility, making it legible for colour blindness and near-sightedness</td>
+    <td align="center">Readability, easy to follow and navigate the menu</td>
+    <td align="center">Design, ensuring that the typography, layout and visuals are in-line with branding</td>
   </tr>
 </table>
 
 <br>    
 
-I thought about this long and hard and focused on the message throughout the narrative and the end. I had a lot of ideas but to be realistic, what can a user do or in their current state? I realized that a typical average person can't physically save Penguins or Polar Bears in the Arctic...
+I had to balance this with my school and club work, so it was fun balancing all of that and taking the time to work on this. Needless to say, I was excited and raving to work on it during the weekends and whenever I had the time.
 
 <br>
 
