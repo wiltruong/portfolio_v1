@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubisoft Toronto Next 2020 submission, modernizing a UI from 2013.
-tags: [UI Art, UX, Visual Design]
+tags: [UI, UX, Visual Design]
 image: '/images/posts/eco.png'
 permalink: /ubinext2020/
 ---
