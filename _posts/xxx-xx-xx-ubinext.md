@@ -29,7 +29,7 @@ permalink: /ubinext2020/
 <td rowspan="2">How do I modernize a UI for a game from 2013, while keeping in mind of accessibility and overall design?</td>
 </tr>
 <tr>
-<td markdown="span"><b>Role:</b> UI art, UX, Graphic/Visual Design</td>
+<td markdown="span"><b>Role:</b> UI, UX, Graphic/Visual Design, Prototyping</td>
 </tr>
 <tr>
 <td markdown="span"><b>Team:</b> Me, myself, and I</td>
