@@ -9,7 +9,7 @@ body {
   line-height: $line-height-base;
   
   opacity: 1;
-  transform: translate3d(0, 0, 0);
+  transition: 1s opacity;
 
   -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
@@ -17,7 +17,7 @@ body {
 
 body.fade {
     opacity: 0;
-    transform: translate3d(0, -100%, 0);
+    transition: none;
 }
 
 *::selection {
