@@ -8,6 +8,12 @@ permalink: /ubinext2020/
 
 <br>
 
+<center><button class='c-btn c-btn--small' onclick="window.location.href = 'http://ixd572.firebird.sheridanc.on.ca/ecolife/';">Click for Working Prototype</button></center>
+
+https://toronto.ubisoft.com/2020/05/ubisoft-toronto-next-2020-finalists/
+
+<br>
+
 <table>
 <colgroup>
 <col width="40%" />
