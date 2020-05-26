@@ -41,7 +41,7 @@ permalink: /ubinext2020/
 
 ### Designing a game UI from scratch?!
 
-One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to UI/UX, the aspiration of working on UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and also mock ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area. Although, I thought it would be easy but I had to pay attention to a few things:
+One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to the UI/UX. The aspiration of working in UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and also mock ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area of genre. At first, I thought it would be easy but I had to pay attention to a few things:
 
 <br>
 
