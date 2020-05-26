@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubisoft Toronto Next 2020 challenge, modernizing a UI from 2013.
+title: Ubisoft Toronto Next 2020 challenge, modernizing an UI from 2013.
 tags: [UI, UX, Visual Design, Game Development, 2nd Place/Finalist]
 image: '/images/posts/eco.png'
 permalink: /ubinext2020/
