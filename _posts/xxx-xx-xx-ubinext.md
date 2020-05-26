@@ -107,7 +107,7 @@ For the overall design, I went with an isometric design with multiple levels in 
 
 <br>
 
-### The Iterations... So many of them
+### The iterations... So many of them
 
 
 
