@@ -36,6 +36,8 @@ Adobe Creative Jam 2019, GTA Creative Schools - Participant
 
 DeltaHacks VI - Participant
 
+Ubisoft Toronto NEXT 2020 - Finalist
+
 <br>
 
 <h1>Want to chat?</h1>
