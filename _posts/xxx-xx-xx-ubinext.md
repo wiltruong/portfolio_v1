@@ -8,7 +8,7 @@ permalink: /ubinext2020/
 
 <br>
 
-<center><b>My submission for the Ubisoft Toronto NEXT 2020 UI challenge was part of the top 5 finalists and awarded 2nd place overall in the competition (there were over 250 participants). <a href="https://toronto.ubisoft.com/2020/05/ubisoft-toronto-next-2020-finalists"/>Blog post here.</a></center>
+<center><b>My submission for the Ubisoft Toronto NEXT 2020 UI challenge was part of the top 5 finalists and awarded 2nd place overall in the competition (there were over 250 participants). <a href="https://toronto.ubisoft.com/2020/05/ubisoft-toronto-next-2020-finalists"/>Blog post here.</a></b></center>
 
 <br>
 
