@@ -13,12 +13,12 @@
     font-family: $font-base;
     line-height: $line-height-medium;
 
-    background-color: $bg-color-gray;
+    background-color: #bdbdbd;
     transition: $global-transition;
     
     @include attention() {
       text-decoration: none;
-      background-color: $bg-color-gray;
+      background-color: #bdbdbd;
     }
   }
 
