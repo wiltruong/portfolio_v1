@@ -35,7 +35,7 @@ permalink: /ubinext2020/
 
 <br>
 
-### The problem... And beyond
+### Designing a game UI from scratch?!
 
 This project was done throughout the course term and revolved around a single topic: Climate change. This topic was huge and obviously I had to tackle it from a different direction. I had a few questions to myself: 
 
@@ -65,7 +65,7 @@ I thought about this long and hard and focused on the message throughout the nar
 
 <br>
 
-### The solution
+### The challenges
 
 I went with a simple idea of showing a life of an individual who has a low carbon footprint. The concept is to show the user on what he or she can do to make their lives eco-friendly. I wanted to bridge a connection between the user's interaction and the information that is being showed on the screen. 
 
@@ -104,6 +104,12 @@ I went with a simple idea of showing a life of an individual who has a low carbo
 For the overall design, I went with an isometric design with multiple levels in a house. The interactivity is for the user to navigate and learn about the specific things that a person can do to reduce their carbon footprint. I felt that an isometric 3D design would be appropriate due to the interactions and how I wanted the user to see an overview of the house and its areas.
 
 ![image](/images/posts/ecomockup.png)
+
+<br>
+
+### The Iterations... So many of them
+
+
 
 <br>
 
