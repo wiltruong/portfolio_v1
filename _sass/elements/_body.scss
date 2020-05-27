@@ -7,17 +7,9 @@ body {
   font-size: $font-size-base;
   font-family: $font-base;
   line-height: $line-height-base;
-  
-  opacity: 1;
-  transition: 0.8s opacity;
 
   -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
-}
-
-body.fade {
-    opacity: 0;
-    transition: none;
 }
 
 *::selection {
