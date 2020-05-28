@@ -36,7 +36,7 @@ Adobe Creative Jam 2019, GTA Creative Schools - Participant
 
 DeltaHacks VI - Participant
 
-Ubisoft Toronto NEXT 2020 - Finalist <a href="https://toronto.ubisoft.com/2020/05/ubisoft-toronto-next-2020-finalists/">(Offical blog post)</a>
+Ubisoft Toronto NEXT 2020 - 2nd place / Finalist <a href="https://toronto.ubisoft.com/2020/05/ubisoft-toronto-next-2020-finalists/">(Offical blog post)</a>
 
 <br>
 
