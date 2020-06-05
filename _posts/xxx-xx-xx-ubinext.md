@@ -105,13 +105,34 @@ Those challenges made me think how players can interact with a menu or HUD. I we
 
 ![image](/images/posts/ecomockup.png)
 
-Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this:
+Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this, I implemented into my deisgns:
 
-large text (more than 18px) such as headers to ensure that players can quickly read the menu from a distance
+<br>
 
-Using typography with iconography, to enable those who are colour blinded to understand layers of information without colour
+<table>
+    <colgroup>
+<col width="33.33%" />
+<col width="33.33%" />
+<col width="33.33%" />
+</colgroup>
+  <tr>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/aware.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/person.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
+  </tr>
+  <tr>
+    <td align="center">typography with iconography, to enable those who are colour blinded to understand layers of information without colour</td>
+    <td align="center">large text (more than 18px) such as headers to ensure that players can quickly read the menu from a distance</td>
+    <td align="center">Using contrast to make text and icons be clear to those who are visually impared</td>
+  </tr>
+</table>
+
+<br>  
 
 ![image](/images/posts/ecomockup.png)
+
+I constantly referred to the Association of Registered Graphic Designer's guide to 
+<a href="https://www.rgd.ca/resources/accessibility/access">accessibility practices</a>, which was a great resource to refer to when designing my mocks.
 
 <br>
 
@@ -150,7 +171,6 @@ Balancing with my school and club work, I felt that this challenge was a test of
 
 
 > Believing in my strengths as a designer
-
 
 
 <br>
