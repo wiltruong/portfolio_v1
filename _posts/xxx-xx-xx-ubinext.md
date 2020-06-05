@@ -71,11 +71,7 @@ I had to balance this with my school and club work, so it was fun balancing all 
 
 ### The obstacles
 
-I went with a simple idea of showing a life of an individual who has a low carbon footprint. The concept is to show the user on what he or she can do to make their lives eco-friendly. I wanted to bridge a connection between the user's interaction and the information that is being showed on the screen. 
-
-<br>
-
-<b>For example:</b> Instead of putting things like "buy an electric car to be environmentally friendly", the user can bike and save money plus lower their carbon footprint.
+This challenge was insanely tough but one thing that got me through the various challenges was iteration and taking that step back to think about the overall player UX and design. Without a doubt, I encountered two major challenging things:
 
 <br>
 
@@ -96,16 +92,24 @@ I went with a simple idea of showing a life of an individual who has a low carbo
   </tr>
   <tr>
     <th align="center"></th>
-    <td align="center">Lower your carbon footprint by buying an electric car</td>
+    <td align="center">Balancing accessibility with design</td>
     <td align="center"></td>
-    <td align="center">Save money and lower your carbon footprint by biking</td>
+    <td align="center">UX and information hierarchy</td>
     <td align="center"></td>
   </tr>
 </table>
 
 <br>     
     
-For the overall design, I went with an isometric design with multiple levels in a house. The interactivity is for the user to navigate and learn about the specific things that a person can do to reduce their carbon footprint. I felt that an isometric 3D design would be appropriate due to the interactions and how I wanted the user to see an overview of the house and its areas.
+Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use the menu. Keeping it simple was the core concept and one of the major pillars for my design, as it is one of the trends for major AAA next gen game UI.
+
+![image](/images/posts/ecomockup.png)
+
+Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this:
+
+large text (more than 18px) such as headers to ensure that players can quickly read the menu from a distance
+
+Using typography with iconography, to enable those who are colour blinded to understand layers of information without colour
 
 ![image](/images/posts/ecomockup.png)
 
@@ -113,17 +117,21 @@ For the overall design, I went with an isometric design with multiple levels in 
 
 ### The iterations... So many of them
 
+At first, my initial designs was to be a little bit bolder and use a grid system. I was heavily inspired by how The Division 2 layed out it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
 
+![image](/images/posts/ecomockup.png)
+
+The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I realized that as a gamer, complex menus are not fun, something that is intiuitive and easy to navigate is the key.
+
+![image](/images/posts/ecomockup.png)
 
 <br>
 
 ### The final product
 
-My final design was quite a departure from what I initially planned. To create a more intimate relationship with the user, I created a character where the user can relate to. This allowed me to create a tour like experience where the character is leading the user to various places in the house. I was very inspired by visual novels with text boxes and characters.
+The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied that feedback and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
 
 ![image](/images/posts/foxy.png)
-
-With the addition of the character, I wanted it to animate so that was done through Adobe's Mixamo and a few pieces of code that I referenced via a <a href="https://tympanus.net/codrops/2019/10/14/how-to-create-an-interactive-3d-character-with-three-js/">tutorial by Kyle Wetton</a>. The idea was to let the character move its head accordingly to the user's mouse. This was a fun little quirk that I implemented since the character is cute and all, it provided a more fun and relaxing experience.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -133,21 +141,17 @@ With the addition of the character, I wanted it to animate so that was done thro
 
 ### The take aways
 
-This project was the most challenging project I’ve ever done in a class setting. I set high ambitions to create a narrative that would easily flow with what I envisioned. I overcame a lot of challenges and became resourceful in figuring out what I needed to do to make my vision happen. There were a few things that I learned in this project:
+Balancing with my school and club work, I felt that this challenge was a test of my abilities and it really was. I enjoyed every second of idealizing and creating my mocks. The realization that working in UI/UX in games was beginning to come true. Throughout the process, I learned a lot from the industry, the judges, and also myself. From this challenge, my take aways were:
 
-> Functionality versus visuals
+> Accessibility is important!
 
-I wanted to create a more unique interactive experience where the user can hover over an object and it will highlight it. Although, due to the nature of three.JS, I had to reduce my models to simple shapes - Which affected the overall design.
-    
-I had a dilemma where I wanted the functionality, but can I really sacrifice the visuals? Ultimately, I went with changing the pointer, rather than highlighting the object. As much as I was frustrated, I learned that sometimes you have provided a level of balance to aesthetics and functionality.
 
-> Being resourceful 
+> Motion is king
 
-I learned to be resourceful and search online for things that I wanted to implement. For animating my fox model, I followed a tutorial. For understanding how three.js worked, I looked up the documentation. I understood that my Professor didn’t have all the answers (plus helping other students) but gave good advice in my direction and overall design.
 
-> Being flexible
+> Believing in my strengths as a designer
 
-I realized throughout the project; things were constantly changing. From coding to the visual design. Being flexible was important as I was quite stubborn with sticking to what I wanted. As I moved forward in the project, somethings were just not possible (i.e. highlighting the object). There were things that I had to change based on feedback, but I learned that being a designer means having to adjust and adapt to things that don’t work too well with the plan.
+
 
 <br>
 
