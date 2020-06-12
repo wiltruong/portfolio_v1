@@ -184,4 +184,3 @@ I learned that motion is key in my mock-ups, even though my motion concepts were
 My strengths as a designer are typography and minimalism - I'm quite proud of what I designed for my mockups and I strongly believed that they were critical to the challenge. Although, I learned that it wasn't enough. Visuals are just as important. Motion too. Initially, I wasn't confident that I'll make it to the finals but as I remembered back to my roots as a designer - I utilized those strengths as my advantage.
 
 <br>
-
