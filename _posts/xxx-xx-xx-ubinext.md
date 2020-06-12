@@ -175,12 +175,15 @@ Final result
 Balancing with my school and club work, I felt that this challenge was a test of my abilities and it really was. I enjoyed every second of idealizing and creating my mocks. The realization that working in UI/UX in games was beginning to come true. Throughout the process, I learned a lot from the industry, the judges, and myself. From this challenge, my take aways were:
 
 > Accessibility is important!
+
 This challenge taught me the importance of designing an UI to be accessible. I didn't realize how much factors that I needed to take into consideration, from colour to contrast to even the type. It gave me an insight to how a game designer would think to make their UI or game more accessible and gives me a large appreciation for game developers who take the time and effort to implement such options (looking at you Ubisoft and Naughty Dog).
 
 > Motion is king
+
 I learned that motion is key in my mock-ups, even though my motion concepts were rather weak in scope. It can be pushed further, and it was not something I focused too much of due to my lack of skill in After Effects. Using motion to enforce certain feedback like purchasing or equipping provides the player a visual way of understanding "hey you got this new shiny weapon."
 
 > Believing in my strengths as a designer
+
 My strengths as a designer are typography and minimalism - I'm quite proud of what I designed for my mockups and I strongly believed that they were critical to the challenge. Although, I learned that it wasn't enough. Visuals are just as important. Motion too. Initially, I wasn't confident that I'll make it to the finals but as I remembered back to my roots as a designer - I utilized those strengths as my advantage.
 
 <br>
