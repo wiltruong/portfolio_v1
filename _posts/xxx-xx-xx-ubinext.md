@@ -41,7 +41,7 @@ permalink: /ubinext2020/
 
 ### Designing a game UI from scratch?!
 
-One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to the UI/UX. The aspiration of working in UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and also mock ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area of genre. At first, I thought it would be easy but I had to pay attention to a few things:
+One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to the UI/UX. The aspiration of working in UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and mock-ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area of genre. At first, I thought it would be easy, but I had to pay attention to a few things:
 
 <br>
 
@@ -65,7 +65,7 @@ One word that can describe this entire project/challenge is, passion. I love vid
 
 <br>    
 
-I had to balance this with my school and club work, so it was fun balancing all of that and taking the time to work on this. Needless to say, I was excited and raving to work on it during the weekends and whenever I had the time.
+I had to balance this with my school and club work, so it was fun balancing all of that and taking the time to work on this. I was excited and raving to work on it during the weekends and whenever I had the time.
 
 <br>
 
@@ -105,7 +105,7 @@ Those challenges made me think how players can interact with a menu or HUD. I we
 
 ![image](/images/posts/ecomockup.png)
 
-Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this, I implemented into my deisgns:
+Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this, I implemented into my designs:
 
 <br>
 
@@ -121,9 +121,9 @@ Accessibility was a critical thing for me to take in consideration (not only it 
     <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
   </tr>
   <tr>
-    <td align="center">typography with iconography, to enable those who are colour blinded to understand layers of information without colour</td>
-    <td align="center">large text (more than 18px) such as headers to ensure that players can quickly read the menu from a distance</td>
-    <td align="center">Using contrast to make text and icons be clear to those who are visually impared</td>
+    <td align="center">Type with iconography, to enable those who are colour blinded to understand layers of information without colour</td>
+    <td align="center">Large text (more than 18px), such as headers to ensure that players can quickly read the menu from a distance</td>
+    <td align="center">Using contrast to make text and icons be clear to those who are visually impaired</td>
   </tr>
 </table>
 
@@ -138,11 +138,17 @@ I constantly referred to the Association of Registered Graphic Designer's guide 
 
 ### The iterations... So many of them
 
-At first, my initial designs was to be a little bit bolder and use a grid system. I was heavily inspired by how The Division 2 layed out it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
+At first, my initial designs was to be a little bit bolder and use a grid system. I was heavily inspired by how The Division 2 organized it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
 
 ![image](/images/posts/ecomockup.png)
 
-The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I realized that as a gamer, complex menus are not fun, something that is intiuitive and easy to navigate is the key.
+The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
+
+![image](/images/posts/ecomockup.png)
+
+<br>
+
+I went through different fonts, my initial picks were display fonts that were geometric because I wanted to show a technical feel. I eventually gravitated to san-serif fonts as it was more modern and in-line with next-gen games. I used two different fonts: FS Industrie and DIN Pro.
 
 ![image](/images/posts/ecomockup.png)
 
@@ -152,6 +158,10 @@ The constant going back and taking a step back to think about the player and the
 
 The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied that feedback and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
 
+My sketches/initial concepts...
+![image](/images/posts/foxy.png)
+
+Final result
 ![image](/images/posts/foxy.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -162,16 +172,16 @@ The final design was a huge departure from what I initially sketched out on pape
 
 ### The take aways
 
-Balancing with my school and club work, I felt that this challenge was a test of my abilities and it really was. I enjoyed every second of idealizing and creating my mocks. The realization that working in UI/UX in games was beginning to come true. Throughout the process, I learned a lot from the industry, the judges, and also myself. From this challenge, my take aways were:
+Balancing with my school and club work, I felt that this challenge was a test of my abilities and it really was. I enjoyed every second of idealizing and creating my mocks. The realization that working in UI/UX in games was beginning to come true. Throughout the process, I learned a lot from the industry, the judges, and myself. From this challenge, my take aways were:
 
 > Accessibility is important!
-
+This challenge taught me the importance of designing an UI to be accessible. I didn't realize how much factors that I needed to take into consideration, from colour to contrast to even the type. It gave me an insight to how a game designer would think to make their UI or game more accessible and gives me a large appreciation for game developers who take the time and effort to implement such options (looking at you Ubisoft and Naughty Dog).
 
 > Motion is king
-
+I learned that motion is key in my mock-ups, even though my motion concepts were rather weak in scope. It can be pushed further, and it was not something I focused too much of due to my lack of skill in After Effects. Using motion to enforce certain feedback like purchasing or equipping provides the player a visual way of understanding "hey you got this new shiny weapon."
 
 > Believing in my strengths as a designer
-
+My strengths as a designer are typography and minimalism - I'm quite proud of what I designed for my mockups and I strongly believed that they were critical to the challenge. Although, I learned that it wasn't enough. Visuals are just as important. Motion too. Initially, I wasn't confident that I'll make it to the finals but as I remembered back to my roots as a designer - I utilized those strengths as my advantage.
 
 <br>
 
