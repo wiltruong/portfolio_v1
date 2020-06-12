@@ -101,11 +101,11 @@ This challenge was insanely tough but one thing that got me through the various 
 
 <br>     
     
-Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use the menu. Keeping it simple was the core concept and one of the major pillars for my design, as it is one of the trends for major AAA next gen game UI.
+Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use it. Keeping it simple was the core concept and one of the major pillars for my design, as I see it as a trend for next gen game UI.
 
 ![image](/images/posts/ecomockup.png)
 
-Accessibility was a critical thing for me to take in consideration (not only it was in the brief), as it was important for me to cater to that group and is emerging within the game development scene. To combat this, I implemented into my designs:
+Accessibility was a critical thing for me to take into consideration (not only it was in the brief), as it was something important to me as a designer and to show that I understand how to design something that is accessible. To combat this, I implemented into my designs:
 
 <br>
 
@@ -138,7 +138,7 @@ I constantly referred to the Association of Registered Graphic Designer's guide 
 
 ### The iterations... So many of them
 
-At first, my initial designs was to be a little bit bolder and use a grid system. I was heavily inspired by how The Division 2 organized it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
+At first, my initial designs were a bit bold in design and use a grid system. I was heavily inspired by how The Division 2 organized it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
 
 ![image](/images/posts/ecomockup.png)
 
@@ -156,7 +156,7 @@ I went through different fonts, my initial picks were display fonts that were ge
 
 ### The final product
 
-The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied that feedback and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
+The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied it and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
 
 My sketches/initial concepts...
 ![image](/images/posts/foxy.png)
