@@ -52,9 +52,9 @@ One word that can describe this entire project/challenge is, passion. I love vid
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/aware.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/person.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi1.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi2.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi3.png"></th>
   </tr>
   <tr>
     <td align="center">Accessibility, making it legible for colour blindness and near-sightedness</td>
@@ -85,9 +85,9 @@ This challenge was insanely tough but one thing that got me through the various 
 </colgroup>
   <tr>
     <th align="center"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/car.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi4.png"></th>
      <th align="center"><b>Versus</b></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/bike.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi5.png"></th>
     <th align="center"></th>
   </tr>
   <tr>
@@ -116,9 +116,9 @@ Accessibility was a critical thing for me to take into consideration (not only i
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/aware.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/person.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi6.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi7.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi8.png"></th>
   </tr>
   <tr>
     <td align="center">Type with iconography, to enable those who are colour blinded to understand layers of information without colour</td>
