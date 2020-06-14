@@ -86,7 +86,7 @@ This challenge was insanely tough but one thing that got me through the various 
   <tr>
     <th align="center"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi6.png"></th>
-     <th align="center"><b>Versus</b></th>
+     <th align="center"><b>And</b></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi4.png"></th>
     <th align="center"></th>
   </tr>
