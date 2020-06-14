@@ -116,9 +116,9 @@ Accessibility was a critical thing for me to take into consideration (not only i
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi6.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi10.png"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi7.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi8.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi11.png"></th>
   </tr>
   <tr>
     <td align="center">Type with iconography, to enable those who are colour blinded to understand layers of information without colour</td>
