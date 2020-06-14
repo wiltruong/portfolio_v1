@@ -168,7 +168,7 @@ I went through different fonts, my initial picks were display fonts that were ge
 
 <br>
 
-![image](/images/posts/ubi14.png)
+![image](/images/posts/ubi14.jpg)
 <i>Final version of menu UI</i>
 
 <br>
