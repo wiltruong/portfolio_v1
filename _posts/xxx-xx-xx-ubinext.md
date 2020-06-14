@@ -180,7 +180,7 @@ The final design was a huge departure from what I initially sketched out on pape
 My sketches/initial concepts...
 ![image](/images/posts/foxy.png)
 
-Final result
+Final mocks:
 ![image](/images/posts/foxy.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
