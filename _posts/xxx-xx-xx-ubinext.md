@@ -103,8 +103,10 @@ This challenge was insanely tough but one thing that got me through the various 
     
 Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use it. Keeping it simple was the core concept and one of the major pillars for my design, as I see it as a trend for next gen game UI.
 
-![image](/images/posts/ubi13.png)
+<br>
+![image](/images/posts/ubi13.jpg)
 <i>Final HUD Mockup</i>
+<br>
 
 Accessibility was a critical thing for me to take into consideration (not only it was in the brief), as it was something important to me as a designer and to show that I understand how to design something that is accessible. To combat this, I implemented into my designs:
 
@@ -133,6 +135,7 @@ Accessibility was a critical thing for me to take into consideration (not only i
 ![image](/images/posts/ubi15.png)
 <i>The Menu UI with simulated protanopia type colour blindness</i>
 
+<br>
 
 I constantly referred to the Association of Registered Graphic Designer's guide to 
 <a href="https://www.rgd.ca/resources/accessibility/access">accessibility practices</a>, which was a great resource to refer to when designing my mocks.
