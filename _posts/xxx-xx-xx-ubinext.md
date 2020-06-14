@@ -117,7 +117,7 @@ Accessibility was a critical thing for me to take into consideration (not only i
 </colgroup>
   <tr>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi10.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi7.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi12.png"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi11.png"></th>
   </tr>
   <tr>
