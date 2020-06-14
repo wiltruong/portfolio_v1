@@ -177,15 +177,18 @@ I went through different fonts, my initial picks were display fonts that were ge
 
 The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied it and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
 
-My sketches/initial concepts...
-![image](/images/posts/foxy.png)
+<br>
 
-Final mocks:
-![image](/images/posts/foxy.png)
+My sketches/initial concepts...
+![image](/images/posts/ubi18.png)
+
+<br>
+
+Final mocks (HUD + Menu):
+![image](/images/posts/ubi13.jpg)
+![image](/images/posts/ubi14.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<a href="http://ixd572.firebird.sheridanc.on.ca/ecolife/">Final project link</a>
 
 <br>
 
