@@ -144,23 +144,32 @@ I constantly referred to the Association of Registered Graphic Designer's guide 
 
 <br>
 
-<br>
-
 ### The iterations... So many of them
 
 At first, my initial designs were a bit bold in design and use a grid system. I was heavily inspired by how The Division 2 organized it's information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not an looter-shooter, it is an stealth action-adventure game.
 
-![image](/images/posts/ecomockup.png)
+<br>
+
+![image](/images/posts/ubi16.jpg)
+<i>Version 2 of menu UI</i>
+
+<br>
 
 The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
 
-![image](/images/posts/ecomockup.png)
+<br>
+
+![image](/images/posts/ubi17.jpg)
+<i>Version 3 of menu UI</i>
 
 <br>
 
 I went through different fonts, my initial picks were display fonts that were geometric because I wanted to show a technical feel. I eventually gravitated to san-serif fonts as it was more modern and in-line with next-gen games. I used two different fonts: FS Industrie and DIN Pro.
 
-![image](/images/posts/ecomockup.png)
+<br>
+
+![image](/images/posts/ubi14.png)
+<i>Final version of menu UI</i>
 
 <br>
 
