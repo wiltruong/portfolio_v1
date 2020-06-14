@@ -53,7 +53,7 @@ One word that can describe this entire project/challenge is, passion. I love vid
 </colgroup>
   <tr>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi1.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi2.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi9.png"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi3.png"></th>
   </tr>
   <tr>
