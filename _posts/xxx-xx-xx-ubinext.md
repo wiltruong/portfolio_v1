@@ -132,13 +132,13 @@ Accessibility was a critical thing for me to take into consideration (not only i
 
 <br>  
 
-![image](/images/posts/ubi15.png)
-<i>The Menu UI with simulated protanopia type colour blindness</i>
-
-<br>
-
 I constantly referred to the Association of Registered Graphic Designer's guide to 
 <a href="https://www.rgd.ca/resources/accessibility/access">accessibility practices</a>, which was a great resource to refer to when designing my mocks.
+
+<br>
+![image](/images/posts/ubi15.png)
+<i>The Menu UI with simulated protanopia type colour blindness</i>
+<br>
 
 <br>
 
