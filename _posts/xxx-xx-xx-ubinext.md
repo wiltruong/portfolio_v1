@@ -150,12 +150,20 @@ At first, my initial designs were a bit bold in design and use a grid system. I 
 
 <br>
 
+![image](/images/posts/ubi20.png)
+<i>Version 1 of menu UI</i>
+
+![image](/images/posts/ubi19.png)
+<i>Version 1 of HUD</i>
+
+<br>
+
 ![image](/images/posts/ubi16.jpg)
 <i>Version 2 of menu UI</i>
 
 <br>
 
-The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
+The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I looked deeper into current and older titles like Astral Chain, Division 2, Death Stranding, Star Wars Jedi: Fallen Order, Control, Horizon Zero Dawn, and The Last of Us. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
 
 <br>
 
