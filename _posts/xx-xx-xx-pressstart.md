@@ -8,7 +8,7 @@ permalink: /pressstart/
 
 <br>
 
-<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5';">Click for Working Prototype</button></center>
+<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/';">Click for Working Prototype</button></center>
 
 <br>
 
@@ -115,8 +115,8 @@ I had a dilemma where I wanted the functionality, but can I really sacrifice the
 
 I learned to be resourceful and search online for things that I wanted to implement. For animating my fox model, I followed a tutorial. For understanding how three.js worked, I looked up the documentation. I understood that my Professor didn’t have all the answers (plus helping other students) but gave good advice in my direction and overall design.
 
-> Working with other designers
+> Working remotely with others kind of sucks
 
-I realized throughout the project; things were constantly changing. From coding to the visual design. Being flexible was important as I was quite stubborn with sticking to what I wanted. As I moved forward in the project, somethings were just not possible (i.e. highlighting the object). There were things that I had to change based on feedback, but I learned that being a designer means having to adjust and adapt to things that don’t work too well with the plan.
+This was the first time I did a hackathon online and it was a bit challenging due to it being online. Although, one positive thing was that we could do it in our own home but I miss the interaction and working with others physically. Something about working in-person makes things feel more efficient and better.
 
 <br>
