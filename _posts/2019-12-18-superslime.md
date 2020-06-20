@@ -11,24 +11,29 @@ permalink: /superslime/
 <table>
 <colgroup>
 <col width="40%" />
-<col width="60%" />
+<col width="5%" />
+<col width="55%" />
 </colgroup>
 <thead>
 <tr align="left">
 <th>Project details</th>
-<th>Overview</th>
+<th></th>
+<th>The Challenge</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td markdown="span"><b>Time:</b> 4 months</td>
-<td rowspan="3">This was a passion project that I worked on in my first summer (2019), ever since I returned back to school in 2018. I wanted to develop a game from scratch and design my own sprites.</td>
+<td></td>
+<td rowspan="3">Develop a 2D game using own made pixel art and design.</td>
 </tr>
 <tr>
-<td markdown="span"><b>Role:</b> Game development, design, and coding (GML)</td>
+<td markdown="span"><b>Role:</b> Game development, UI/UX design, and coding (GML)</td>
+<td></td>
 </tr>
 <tr>
 <td markdown="span"><b>Team:</b> Me, myself, and I</td>
+<td></td>
 </tr>
 </tbody>
 </table>
