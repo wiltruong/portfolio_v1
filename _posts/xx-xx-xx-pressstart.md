@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Eco-Life, creating awareness on your carbon footprint.
-tags: [UI, UX, Visual Design, 3D Design, Front-End Development]
+title: Press Start, a way of recommending games to new gamers.
+tags: [UI, UX, Visual Design]
 image: '/images/posts/eco.png'
-permalink: /eco-life/
+permalink: /pressstart/
 ---
 
 <br>
