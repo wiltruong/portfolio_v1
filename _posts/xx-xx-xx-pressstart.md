@@ -8,7 +8,7 @@ permalink: /pressstart/
 
 <br>
 
-<center><button class='c-btn c-btn--small' onclick="window.location.href = 'http://ixd572.firebird.sheridanc.on.ca/ecolife/';">Click for Working Prototype</button></center>
+<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/';">Click for Working Prototype</button></center>
 
 <br>
 
@@ -95,9 +95,9 @@ We also added other elements like social media, sharing, wish lists, and favouri
 
 In the end, we wanted to reduce the frustration of finding games. Our secondary research showed that people often ask for recommendations online via social hubs like Reddit, Facebook, or Twitter. It shows that the abundance of games out there is quite large and is daunting to a new gamer today. We felt that we accomplished this by creating an app that is focused on doing one thing good, recommending quality games based on the user’s needs/preferences.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![image](/images/posts/foxy.png)
 
-<a href="http://ixd572.firebird.sheridanc.on.ca/ecolife/">Final project link</a>
+<a href="https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/">Working prototype link</a>
 
 <br>
 
