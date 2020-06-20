@@ -8,7 +8,7 @@ permalink: /pressstart/
 
 <br>
 
-<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/';">Click for Working Prototype</button></center>
+<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5';">Click for Working Prototype</button></center>
 
 <br>
 
