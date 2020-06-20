@@ -32,7 +32,7 @@ permalink: /pressstart/
 <td markdown="span"><b>Role:</b> UI, UX, Visual design</td>
 </tr>
 <tr>
-<td markdown="span"><b>Team:</b> Bruno Akune, and Celine Haddadin</td>
+<td markdown="span"><b>Team:</b> Bruno Akune and Celine Haddadin</td>
 </tr>
 </tbody>
 </table>
