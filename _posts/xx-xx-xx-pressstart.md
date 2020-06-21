@@ -12,7 +12,7 @@ permalink: /pressstart/
 
 <br>
 
-<b>Our app prototype made it to the finalist stage (<a href="https://assets.adobe.com/public/b7e508d5-10e4-4af1-7450-be3ced472a1d">here</a>), among 700 students across the US, UK, and Canada.</b>
+<b>We were very happy when our app prototype made it to the finalist stage (<a href="https://assets.adobe.com/public/b7e508d5-10e4-4af1-7450-be3ced472a1d">here</a>), among 700 students across the US, UK, and Canada.</b>
 
 <br>
 
