@@ -63,9 +63,9 @@ We decided to focus on three main things for our app:
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/aware.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/person.png"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/give.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/strt7.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/strt8.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/strt9.png"></th>
   </tr>
   <tr>
     <td align="center">Usability</td>
