@@ -58,19 +58,31 @@ We decided to focus on three main things for our app:
 
 <table>
     <colgroup>
-<col width="33.33%" />
-<col width="33.33%" />
-<col width="33.33%" />
-</colgroup>
+<col width="5%" />        
+<col width="26.66%" />
+<col width="5%" />   
+<col width="26.66%" />
+<col width="5%" />   
+<col width="26.66%" />
+<col width="5%" />   
+   </colgroup>
   <tr>
+    <th align="center"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/strt7.png"></th>
+    <th align="center"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/strt8.png"></th>
+    <th align="center"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/strt9.png"></th>
+    <th align="center"></th>
   </tr>
   <tr>
+    <th align="center"></th>
     <td align="center">Usability</td>
+    <td align="center"></td>
     <td align="center">Simplicity</td>
+    <td align="center"></td>
     <td align="center">Information</td>
+    <td align="center"></td>
   </tr>
 </table>
 
