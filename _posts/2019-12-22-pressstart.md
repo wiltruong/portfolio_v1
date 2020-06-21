@@ -50,7 +50,7 @@ permalink: /pressstart/
 
 ### Us versus the world
 
-In this hackathon (Activision + College Creative Jam), I teamed up with two of my friends against a whole ton of universities in the US, UK and Canada. The main theme is gaming, and we had the dauntless task of creating an app that caters to/informs new gamers. Our main concept was to create an app that provides recommendations to the user, in a easy and simple way. We took inspiration from Steam and other platforms (i.e. uPlay, Orgin, and Epic) and found a central theme: They were all overwhelming with games, especially for a new gamer. This can deter a new gamer due to too many choices and provide a high level of frustration.
+In this hackathon (College + Activision/Adobe Creative Jam), I teamed up with two of my friends against a whole ton of universities in the US, UK and Canada. The main theme is gaming, and we had the dauntless task of creating an app that caters to/informs new gamers. Our main concept was to create an app that provides recommendations to the user, in a easy and simple way. We took inspiration from Steam and other platforms (i.e. uPlay, Orgin, and Epic) and found a central theme: They were all overwhelming with games, especially for a new gamer. This can deter a new gamer due to too many choices and provide a high level of frustration.
 
 We decided to focus on three main things for our app:
 
