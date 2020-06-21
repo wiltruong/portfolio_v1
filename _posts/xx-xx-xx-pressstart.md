@@ -12,31 +12,36 @@ permalink: /pressstart/
 
 <br>
 
-<b>We were very happy when our app prototype made it to the finalist stage (<a href="https://assets.adobe.com/public/b7e508d5-10e4-4af1-7450-be3ced472a1d">here</a>), among 700 students across the US, UK, and Canada.</b>
+<center><b>We were very happy when our app prototype made it to the finalist stage (<a href="https://assets.adobe.com/public/b7e508d5-10e4-4af1-7450-be3ced472a1d">here</a>), among 700 students across the US, UK, and Canada.</b></center>
 
 <br>
 
 <table>
 <colgroup>
 <col width="40%" />
-<col width="60%" />
+<col width="5%" />
+<col width="55%" />
 </colgroup>
 <thead>
 <tr align="left">
 <th>Project details</th>
+<th></th>
 <th>The Challenge</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td markdown="span"><b>Time:</b> 48 hours</td>
-<td rowspan="2">How do we inform new gamers through an app?</td>
+<td></td>
+<td rowspan="3">How do we inform new gamers through an app?</td>
 </tr>
 <tr>
 <td markdown="span"><b>Role:</b> UI, UX, Visual design</td>
+<td></td>
 </tr>
 <tr>
 <td markdown="span"><b>Team:</b> Bruno Akune and Celine Haddadin</td>
+<td></td>
 </tr>
 </tbody>
 </table>
