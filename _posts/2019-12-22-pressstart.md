@@ -128,16 +128,14 @@ In this hackathon, the theme was challenging, and it was tough because we were c
 
 > Onboarding is key
 
-I wanted to create a more unique interactive experience where the user can hover over an object and it will highlight it. Although, due to the nature of three.JS, I had to reduce my models to simple shapes - Which affected the overall design.
-    
-I had a dilemma where I wanted the functionality, but can I really sacrifice the visuals? Ultimately, I went with changing the pointer, rather than highlighting the object. As much as I was frustrated, I learned that sometimes you have provided a level of balance to aesthetics and functionality.
+During judging, one of the key points of feedback that they had was onboarding. I learned that our onboarding was a bit too long and could be shortened so that the user is able to get into the app quicker. I realized that this applies to any kind of experience such as games where tutorials are important but shouldn’t be too long to deter the experience. By minimizing the onboarding tasks, the user can quickly get into the app and not get bored by multiple screens just to setup the app.
 
 > Focus on one aspect
 
-I learned to be resourceful and search online for things that I wanted to implement. For animating my fox model, I followed a tutorial. For understanding how three.js worked, I looked up the documentation. I understood that my Professor didn’t have all the answers (plus helping other students) but gave good advice in my direction and overall design.
+I learned that having a focus is important and provides a direction when creating the prototype. Initially, we had a lot of ideas to implement but decided to focus on one thing and do it well. I think that this is a major factor to what makes an app or product successful, doing one thing and one thing well.
 
 > Working remotely with others kind of sucks
 
-This was the first time I did a hackathon online and it was a bit challenging due to it being online. Although, one positive thing was that we could do it in our own home but I miss the interaction and working with others physically. Something about working in-person makes things feel more efficient and better.
+This was the first time I did a hackathon online and it was a bit challenging due to it being remote. Although, one positive thing was that we could do it in our own home but I miss the interaction and working with others physically. Something about working in-person makes things feel more efficient and better.
 
 <br>
