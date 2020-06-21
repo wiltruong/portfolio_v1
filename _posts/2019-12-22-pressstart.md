@@ -81,7 +81,7 @@ We decided to focus on three main things for our app:
     <td align="center"></td>
     <td align="center">Simplicity, simple navigation and UI</td>
     <td align="center"></td>
-    <td align="center">Information, displaying data that is easy to digest</td>
+    <td align="center">Information, showing only the necessary info</td>
     <td align="center"></td>
   </tr>
 </table>
