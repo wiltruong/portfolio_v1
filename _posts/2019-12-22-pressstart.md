@@ -77,11 +77,11 @@ We decided to focus on three main things for our app:
   </tr>
   <tr>
     <th align="center"></th>
-    <td align="center">Usability</td>
+    <td align="center">Usability, making it intuitive to the user</td>
     <td align="center"></td>
-    <td align="center">Simplicity</td>
+    <td align="center">Simplicity, simple navigation and UI</td>
     <td align="center"></td>
-    <td align="center">Information</td>
+    <td align="center">Information, displaying data that is easy to digest</td>
     <td align="center"></td>
   </tr>
 </table>
