@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Press Start, a way of recommending games to new gamers.
+title: Press Start, a simple way to recommend games to new gamers.
 tags: [UI, UX, Visual Design]
 image: '/images/posts/strt1.png'
 permalink: /pressstart/
