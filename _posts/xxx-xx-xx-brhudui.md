@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Battle Royale UI concept, going beyond the boxes.
+title: Hyperion, a battle royale UI concept.
 tags: [UI, UX, Visual Design, Game Development]
 image: '/images/posts/ubimain1.png'
 permalink: /brhud/
