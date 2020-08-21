@@ -2,7 +2,7 @@
 layout: post
 title: Hyperion, a battle royale UI concept.
 tags: [UI, UX, Visual Design, Game Development]
-image: '/images/posts/ubimain1.png'
+image: '/images/posts/brui5.png'
 permalink: /hyperion/
 ---
 
