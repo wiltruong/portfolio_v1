@@ -92,23 +92,23 @@ My goals for this project was to create a design that would work in a battle roy
 
 Since this was my first time delving into futuristic UI, I took a deeper look on how it is used in different forms of media, such as movies. As previously mentioned before, I noticed that FUI is generally unusable from a UX content and used as a visual aid than anything. I looked at a few movies such as Star Wars (the recent movies), Bladerunner 2049, and Pacific Rim (both movies), and saw that the FUI used is quite complicated.
 
-[![3](/images/posts/ubi20.png)](https://wilsontruong.com/images/posts/ubi20.png)
-<i style="font-size:12px;">Version 1 of menu UI</i>
+[![1](/images/posts/brui1.png)](https://wilsontruong.com/images/posts/brui1.png)
+<i style="font-size:12px;">Version 1 of HUD</i>
 
 My first version of the mock-up was based on a boxed look, I wanted to keep things clear and simple, although this didn’t look particularly great. It seemed to be more of a “frame” around a box, rather than a FUI HUD. I shifted gears and went for more of a “helmet” HUD style look and using lines to depict certain areas of the UI. I used radials to show the health and ammo bar, as a visual aid plus using numbers instead of bars, so that the player can read the information quickly and accurately.
 
-[![4](/images/posts/ubi19.png)](https://wilsontruong.com/images/posts/ubi19.png)
-<i style="font-size:12px;">Version 1 of HUD</i>
+[![2](/images/posts/brui2.png)](https://wilsontruong.com/images/posts/brui2.png)
+<i style="font-size:12px;">Version 2 (line art only) of HUD</i>
 
 I was very inspired by Lone Echo, a VR game that I've played and loved. I really liked the overall aesthetic and the small details in the UI around the ship plus how it looked. I experimented with different ideas, but this proved a little bit challenging. My iterations involved simulating a helmet HUD, where information is primarily on the sides and the bottom. I realized that this initial design a little big, as it looks too much space, with a lot of information. I found out that it was crowded because of the widgets that I've included.
 
-[![5](/images/posts/ubi16.jpg)](https://wilsontruong.com/images/posts/ubi16.jpg)
-<i style="font-size:12px;">Version 2 of menu UI</i>
+[![3](/images/posts/brui3.jpg)](https://wilsontruong.com/images/posts/brui3.png)
+<i style="font-size:12px;">Version 3 of HUD</i>
 
 After a few more experimentations, I went in a different direction where I made it simpler by not overcomplicating the line art and molding the lines into the widgets, so things were consistent and made it look it belonged in the UI.
 
-[![5](/images/posts/ubi16.jpg)](https://wilsontruong.com/images/posts/ubi16.jpg)
-<i style="font-size:12px;">Version 2 of menu UI</i>
+[![4](/images/posts/brui4.jpg)](https://wilsontruong.com/images/posts/brui4.png)
+<i style="font-size:12px;">Version 4 of HUD</i>
 
 <br>
 
@@ -117,20 +117,14 @@ After a few more experimentations, I went in a different direction where I made 
 Overall, I'm very happy with the result. After getting feedback from a critique, I corrected some changes such as adjusting the colour opacity to make some widgets more consistent with the overall HUD. Plus, adding a few effects such as chromatic aberration and an outer glow to soften things up. 
 
 My sketches/initial concepts...
-[![8](/images/posts/ubi18.png)](https://wilsontruong.com/images/posts/ubi18.png)
+[![5](/images/posts/brui8.png)](https://wilsontruong.com/images/posts/brui8.png)
 
 Final mocks (HUD + Menu):
-[![9](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
+[![6](/images/posts/brui5.png)](https://wilsontruong.com/images/posts/brui5.png)
 <br>
-[![10](/images/posts/Critical-Hostile.jpg)](https://wilsontruong.com/images/posts/Critical-Hostile.jpg)
+[![7](/images/posts/brui6.png)](https://wilsontruong.com/images/posts/brui6.png)
 <br>
-[![11](/images/posts/ubi14.jpg)](https://wilsontruong.com/images/posts/ubi14.jpg)
-<br>
-[![12](/images/posts/Equipped.jpg)](https://wilsontruong.com/images/posts/Equipped.jpg)
-<br>
-[![13](/images/posts/Purchase.jpg)](https://wilsontruong.com/images/posts/Purchase.jpg)
-<br>
-[![14](/images/posts/Unavailable.jpg)](https://wilsontruong.com/images/posts/Unavailable.jpg)
+[![8](/images/posts/brui7.png)](https://wilsontruong.com/images/posts/brui7.png)
 
 Motion concepts:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HDQtAMnUiFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
