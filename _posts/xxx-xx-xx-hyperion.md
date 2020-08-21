@@ -25,7 +25,7 @@ permalink: /hyperion/
 <tr>
 <td markdown="span"><b>Time:</b> 2 months</td>
 <td></td>
-<td rowspan="3">How do I create an </td>
+<td rowspan="3">How do I integrate futuristic UI into a battle royale?</td>
 </tr>
 <tr>
 <td markdown="span"><b>Role:</b> UI, UX, Visual Design, Prototyping</td>
