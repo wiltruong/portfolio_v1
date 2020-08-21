@@ -102,12 +102,12 @@ My first version of the mock-up was based on a boxed look, I wanted to keep thin
 
 I was very inspired by Lone Echo, a VR game that I've played and loved. I really liked the overall aesthetic and the small details in the UI around the ship plus how it looked. I experimented with different ideas, but this proved a little bit challenging. My iterations involved simulating a helmet HUD, where information is primarily on the sides and the bottom. I realized that this initial design a little big, as it looks too much space, with a lot of information. I found out that it was crowded because of the widgets that I've included.
 
-[![3](/images/posts/brui3.jpg)](https://wilsontruong.com/images/posts/brui3.png)
+[![3](/images/posts/brui3.png)](https://wilsontruong.com/images/posts/brui3.png)
 <i style="font-size:12px;">Version 3 of HUD</i>
 
 After a few more experimentations, I went in a different direction where I made it simpler by not overcomplicating the line art and molding the lines into the widgets, so things were consistent and made it look it belonged in the UI.
 
-[![4](/images/posts/brui4.jpg)](https://wilsontruong.com/images/posts/brui4.png)
+[![4](/images/posts/brui4.png)](https://wilsontruong.com/images/posts/brui4.png)
 <i style="font-size:12px;">Version 4 of HUD</i>
 
 <br>
