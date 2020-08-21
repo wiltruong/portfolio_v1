@@ -133,7 +133,7 @@ Final mocks (HUD + Menu):
 [![14](/images/posts/Unavailable.jpg)](https://wilsontruong.com/images/posts/Unavailable.jpg)
 
 Motion concepts:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_leTSX09NV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HDQtAMnUiFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I was happy on how the motion concepts; I furthered my understanding of keyframes in After Effects and managed to create several things like animating the radials and creating a boot up sequence.
 
