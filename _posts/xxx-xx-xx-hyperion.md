@@ -70,7 +70,7 @@ As I started on the project, I kept in mind two things:
     <th align="center"></th>
     <th align="center"><img src="https://wilsontruong.com/images/posts/ubi10.png"></th>
     <th align="center"><b>And</b></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi4.png"></th>
+    <th align="center"><img src="https://wilsontruong.com/images/posts/ubi12.png"></th>
     <th align="center"></th>
   </tr>
   <tr>
