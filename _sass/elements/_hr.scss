@@ -3,11 +3,10 @@
 \*------------------------------------*/
 
 hr {
-  display: none;
   height: 1px;
   margin: double($base-spacing-unit) 0;
 
   border: 0;
 
-  background-color: $color-border;
+  background-color: var(--main-background-color);
 }
