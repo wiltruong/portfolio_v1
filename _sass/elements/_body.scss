@@ -3,8 +3,8 @@
 \*------------------------------------*/
 
 body {
-  background-color: var(--main-background-color);
-  color: var(--main-text-color);
+  background-color: #F5F5F5;
+  color: $color-text;
   font-size: $font-size-base;
   font-family: $font-base;
   line-height: $line-height-base;
@@ -17,20 +17,3 @@ body {
   color: $color-white;
   background: $color-brand;
 }
-
-html { 
-	--light-text-color: rgb(72, 72, 74);
-  	--link-color: rgb(0, 112, 201);
-  	--main-background-color: rgb(255, 255, 255);
-  	--main-text-color: rgb(51, 51, 51);
-}
-
-@media (prefers-color-scheme: dark) {
-	html {
-		--light-text-color: #F5F5F5;
-  		--link-color: #F5F5F5;
-  		--main-background-color: #212121;
-  		--main-text-color: #F5F5F5;
-	}
-}
-
