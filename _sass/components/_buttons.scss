@@ -20,7 +20,8 @@ $btn-bg-hover: #ffa726;
   border-radius: 10px;
 
   color: $color-white;
-  background-color: $btn-bg;
+  //background-color: $btn-bg;
+  background-color: var(--main-tag-color);
   font-size: $font-size-medium;
 
   @include attention() {
