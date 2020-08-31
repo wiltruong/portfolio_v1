@@ -14,7 +14,7 @@ $bg-color-dark:  #222228;
 $bg-color-gray:  #eeeeee;
 
 // Border
-$color-border: #fafafa;
+$color-border: var(--main-background-color);
 
 // Links
 $color-link:        $color-text;
