@@ -68,11 +68,11 @@ We decided to focus on three main things for our app:
    </colgroup>
   <tr>
     <th align="center"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/strt7.png"></th>
+    <th align="center"><i class="fas fa-user-check"></i></th>
     <th align="center"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/strt8.png"></th>
+    <th align="center"><i class="fas fa-table"></i></th>
     <th align="center"></th>
-    <th align="center"><img src="https://wilsontruong.com/images/posts/strt9.png"></th>
+    <th align="center"><i class="fas fa-info"></i></th>
     <th align="center"></th>
   </tr>
   <tr>
