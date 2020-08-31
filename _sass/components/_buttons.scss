@@ -19,7 +19,8 @@ $btn-bg-hover: #ffa726;
   border: 0;
   border-radius: 10px;
 
-  color: $color-white;
+  //color: $color-white;
+  color: var(--main-text-color);
   //background-color: $btn-bg;
   background-color: var(--main-tag-color);
   font-size: $font-size-medium;
