@@ -2,7 +2,20 @@
   {% unless page.name == '404.md' %}
     {% if page.title %}
 
-              <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>&nbsp;&nbsp;{{ page.title }}</a>
+                     
+  <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" 
+   
+   style="
+          
+   font-size: 1.5em; 
+   cursor: pointer; 
+   text-decoration: none; 
+   padding: 15px;
+   position: absolute;
+   text-align: right;
+   width: 100%;
+   
+  "></a>
 
     {% endif %}
   {% endunless %}
