@@ -1,22 +1,6 @@
 <!DOCTYPE html>
 <html lang='en'>
        
-  <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" 
-   
-   style="
-          
-   font-size: 1.5em; 
-   cursor: pointer; 
-   text-decoration: none; 
-   padding: 15px;
-   position: absolute;
-   text-align: right;
-   width: 100%;
-   display: block;
-   z-index: 1;
-   
-  "></a>
-       
 {% include head.html %}
         
 <body>
@@ -24,6 +8,7 @@
   <main class="animate__animated animate__fadeIn">
  
   <div class='js-off-canvas-container c-off-canvas-container'>
+    {% include header.html %}
      
     {{ content }}
     
