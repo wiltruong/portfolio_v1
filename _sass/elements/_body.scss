@@ -20,7 +20,7 @@ body {
   background: $color-brand;
 }
 
-html { 
+html, html[data-theme="light"] {
 		--main-tag-color: #e0e0e0;
 		--light-text-color: #212121;
   		--link-color: #212121;
@@ -28,16 +28,32 @@ html {
   		--main-text-color: #212121;
 }
 
-@media (prefers-color-scheme: dark) {
-	html {
+html[data-theme="dark"] {
 		--main-tag-color: #424242;
 		--light-text-color: #fafafa;
   		--link-color: #fafafa;
   		--main-background-color: #212121;
   		--main-text-color: #fafafa;
-	}
-}	
+}
 
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+		--main-tag-color: #424242;
+		--light-text-color: #fafafa;
+  		--link-color: #fafafa;
+  		--main-background-color: #212121;
+  		--main-text-color: #fafafa;
+    }
+
+    html[data-theme="light"] {
+		--main-tag-color: #e0e0e0;
+		--light-text-color: #212121;
+  		--link-color: #212121;
+  		--main-background-color: #fafafa;
+  		--main-text-color: #212121;
+  } 
+}
 
 i.fas {
 	font-size: 7em;
