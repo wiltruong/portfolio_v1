@@ -1,5 +1,4 @@
 #myBtn {
-transition: all .25s ease-in-out;
   display: none;
   position: fixed;
   height: 64px;
@@ -11,23 +10,12 @@ transition: all .25s ease-in-out;
   outline: none;
   background-color: var(--main-text-color);
   cursor: pointer;
-  border-radius: 50%;
-	
-	  &.show {
-    visibility: visible;
-    opacity: 1;
-  }
-  
-  &.hide {
-    visibility: hidden;
-    opacity: 0;
-  }
-	
+  border-radius: 50%;	
 }
 
 #myBtn i.fas {
-	font-size: 20px;
-	  color: var(--main-background-color);
+  font-size: 20px;
+  color: var(--main-background-color);
 }
 
 #myBtn2 {
@@ -36,7 +24,7 @@ transition: all .25s ease-in-out;
   height: 64px;
   width: 64px;
   bottom: 100px;
-  right: 20px;
+  right: 30px;
   z-index: 99;
   border: none;
   outline: none;
@@ -46,6 +34,6 @@ transition: all .25s ease-in-out;
 }
 
 #myBtn2 i.fas {
-	font-size: 20px;
-	  color: var(--main-background-color);
+  font-size: 20px;
+  color: var(--main-background-color);
 }
