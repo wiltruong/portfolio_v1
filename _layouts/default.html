@@ -27,12 +27,12 @@
     {% include footer.html %}
       
   </div>
+         
+         <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i></button>
+
+       <button onclick="topFunction2()" id="myBtn2" title="Home"><i class="fas fa-home"></i></button>
    
   </main>
-       
-       <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i></button>
-
-<button onclick="topFunction2()" id="myBtn2" title="Home"><i class="fas fa-home"></i></button>
         
   <script src="/js/mode-switcher.js"></script>
 
@@ -40,7 +40,8 @@
   
   <script type="text/javascript" src="/js/lightbox.js"></script>
   <link rel="stylesheet" href="/css/lightbox.css">
-  
+       
+  <script>
 //Get the button
 var mybutton = document.getElementById("myBtn");
 
@@ -66,8 +67,10 @@ function topFunction() {
 }
 
 function topFunction2() {
-   window.location = "https://www.w3schools.com";
+   window.location = "https://wilsontruong.com";
 }
+         
+         </script>
   
   
   <script src="{{ '/js/jquery-3.5.0.min.js' | prepend: site.baseurl }}"> </script>
