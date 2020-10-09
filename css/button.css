@@ -13,6 +13,19 @@
   background-color: var(--main-text-color);
   cursor: pointer;
   border-radius: 50%;	
+  transition: all .1s ease;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+  max-height: 1000px;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  max-height: 0;
 }
 
 #myBtn i {
