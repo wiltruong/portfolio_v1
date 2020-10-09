@@ -33,3 +33,7 @@
   padding: 15px;
   border-radius: 50%;
 }
+
+#myBtn2 i.fas {
+	font-size: 9px;
+}
