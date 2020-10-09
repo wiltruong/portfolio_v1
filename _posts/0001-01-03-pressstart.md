@@ -94,8 +94,9 @@ Our goal was to provide an institutive UI where the user can easily navigate and
 
 ### The plan
   
-With just 48 hours, we spent quite a bit of time talking about ideas and how we can execute them. We took the time to do a bit of research and taking a step back to view the overall picture of a new gamer, which aided us greatly. We started doing wireframes to start the process and then refined it further as we had a good design in mind.
+With just 48 hours, we spent quite a bit of time talking about ideas and how we can execute them. I took the time to do a bit of research and taking a step back to view the overall picture of a new gamer, which aided us greatly. I investigated forums like Reddit and social media as I saw a trend where people would ask for suggestions for games for their kid, parents, or what to play. I also briefly looked into other platforms such as Steam and Orgin, to understand how they were recommending games.
 
+We started doing wireframes to start the process and then refined it further as we had a good design in mind. I took lead in the overall design and layout, I used a pastel purple colour for it to be inviting, casual, and safe. The concept was revolved around providing an intuitive and simple experience for the player, without overwhelming them with information.
 
 [![1](/images/posts/strt6.png)](https://wilsontruong.com/images/posts/strt6.png)
 <i style="font-size:12px;">Wireframes! Oh so many of them!</i>
@@ -104,7 +105,7 @@ With just 48 hours, we spent quite a bit of time talking about ideas and how we 
 
 ### The final product
 
-Our solution was a simple and easy way of recommending a new player games based on their criteria. An onboarding process was made to ease in the user to the app and to tailor their preferences. The UI is centered around cards and minimalism, which results in a focus on the game and information shown. 
+Our solution was a simple and easy way of recommending a new player games based on their criteria. An onboarding process was made to ease in the user to the app and to tailor their preferences. The UI is centered around cards and minimalism, which results in a focus on the game and information shown. I also took the concept of "familiarity" like what game UI does by using familiar elements in other games to provide familiarity to the player. I applied this here with making it feel very “iOS like”, so the layout and type are familiar, so it creates less load on the mind and easy to follow.
 
 [![1](/images/posts/strt2.png)](https://wilsontruong.com/images/posts/strt2.png)
 
@@ -112,11 +113,11 @@ The user can swipe left and right to show different recommendations, which makes
 
 [![1](/images/posts/strt3.png)](https://wilsontruong.com/images/posts/strt3.png)
 
-We also added other elements like social media, sharing, wish lists, and favourites – Which enhances the experience further.
+We also added other elements like social media, sharing, wish lists, and favourites – Which enhances the experience further. The idea is to connect this to major platforms like PSN, Xbox Live, and My Nintendo, so it players can share their wishlists, games, and whatnots to different consoles.
 
 [![1](/images/posts/strt4.png)](https://wilsontruong.com/images/posts/strt4.png)
 
-In the end, we wanted to reduce the frustration of finding games. Our secondary research showed that people often ask for recommendations online via social hubs like Reddit, Facebook, or Twitter. It shows that the abundance of games out there is quite large and is daunting to a new gamer today. We felt that we accomplished this by creating an app that is focused on doing one thing good, recommending quality games based on the user’s needs/preferences.
+In the end, we wanted to reduce the frustration of finding games. Our secondary research showed that people often ask for recommendations online via social hubs like Reddit, Facebook, or Twitter. It shows that the abundance of games out there is quite large and is daunting to a new gamer today. I felt that we accomplished this by creating an app that is focused on doing one thing good, recommending quality games based on the user’s needs/preferences.
 
 [![1](/images/posts/strt5.png)](https://wilsontruong.com/images/posts/strt5.png)
 
