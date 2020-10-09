@@ -1,4 +1,5 @@
 #myBtn {
+transition: all .25s ease-in-out;
   display: none;
   position: fixed;
   height: 64px;
@@ -11,11 +12,21 @@
   background-color: var(--main-text-color);
   cursor: pointer;
   border-radius: 50%;
+	
+	  &.show {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  &.hide {
+    visibility: hidden;
+    opacity: 0;
+  }
+	
 }
 
 #myBtn i.fas {
 	font-size: 20px;
-	  padding: 15px;
 	  color: var(--main-background-color);
 }
 
@@ -36,6 +47,5 @@
 
 #myBtn2 i.fas {
 	font-size: 20px;
-	padding: 15px;
 	  color: var(--main-background-color);
 }
