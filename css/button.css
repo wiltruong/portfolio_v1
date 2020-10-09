@@ -13,19 +13,15 @@
   background-color: var(--main-text-color);
   cursor: pointer;
   border-radius: 50%;	
-  transition: all .1s ease;
-}
-
-.visible {
-  visibility: visible;
-  opacity: 1;
-  max-height: 1000px;
-}
-
-.hidden {
-  visibility: hidden;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
   opacity: 0;
-  max-height: 0;
+  visibility: hidden;
+}
+
+#myBtn.show {
+  opacity: 1;
+  visibility: visible;
 }
 
 #myBtn i {
