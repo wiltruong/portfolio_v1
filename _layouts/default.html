@@ -40,32 +40,12 @@
   
   <script type="text/javascript" src="/js/lightbox.js"></script>
        
-  <script>
-       var mybutton = document.getElementById("myBtn");
-
-       var mybutton2 = document.getElementById("myBtn2");
-
-       window.onscroll = function() {scrollFunction()};
-
-       function scrollFunction() {
-         if (document.body.scrollTop > 15 || document.documentElement.scrollTop > 15) {
-           mybutton.style.display = "block";
-           mybutton2.style.display = "block";
-         } else {
-           mybutton.style.display = "none";
-           mybutton2.style.display = "none";
-         }
-       }
-
-       function topFunction() {
-         document.body.scrollTop = 0;
-         document.documentElement.scrollTop = 0;
-       }
-
-       function topFunction2() {
-          window.location = "https://wilsontruong.com";
-       }
-  </script>
+  <script src="/js/vanilla-back-to-top.min.js"></script>
+  <script>addBackToTop({
+    diameter: 46,
+    backgroundColor: 'var(--main-text-color)',
+    textColor: 'var(--main-background-color)'
+  })</script>
   
   <script src="{{ '/js/jquery-3.5.0.min.js' | prepend: site.baseurl }}"> </script>
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
