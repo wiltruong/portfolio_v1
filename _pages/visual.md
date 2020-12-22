@@ -10,6 +10,15 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
+![image](/images/posts/megamap.png)
+(Right click and click on "View Image" to see the full thing)
+
+<br>
+
+![image](/images/posts/infosheet.png)
+
+<br>
+
 ![image](/images/posts/kitty.png)
 
 <br>
