@@ -15,38 +15,38 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
-![image](/images/posts/infosheet.png)
+[![2](/images/posts/infosheet.png)](https://wilsontruong.com/images/posts/infosheet.png)
 
 <br>
 
-![image](/images/posts/kitty.png)
+[![3](/images/posts/kitty.png)](https://wilsontruong.com/images/posts/kitty.png)
 
 <br>
 
-![image](/images/posts/hackville1.png)
+[![4](/images/posts/hackville1.png)](https://wilsontruong.com/images/posts/hackville1.png)
 
 <br>
 
-![image](/images/posts/hackville2.png)
+[![5](/images/posts/hackville2.png)](https://wilsontruong.com/images/posts/hackville2.png)
 
 <br>
 
-![image](/images/posts/visual1.gif)
+[![6](/images/posts/visual1.gif)](https://wilsontruong.com/images/posts/visual1.gif)
 
 <br>
 
-![image](/images/posts/visual2.gif)
+[![7](/images/posts/visual2.gif)](https://wilsontruong.com/images/posts/visual2.gif)
 
 <br>
 
-![image](/images/posts/visual3.png)
+[![8](/images/posts/visual3.png)](https://wilsontruong.com/images/posts/visual3.png)
 
 <br>
 
-![image](/images/posts/visual4.jpg)
+[![9](/images/posts/visual4.jpg)](https://wilsontruong.com/images/posts/visual4.jpg)
 
 <br>
 
-![image](/images/posts/visual5.png)
+[![10](/images/posts/visual5.png)](https://wilsontruong.com/images/posts/visual5.png)
 
 <br>
