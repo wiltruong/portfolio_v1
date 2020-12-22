@@ -23,30 +23,34 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
-[![4](/images/posts/hackville1.png)](https://wilsontruong.com/images/posts/hackville1.png)
+[![4](/images/posts/kitty.png)](https://wilsontruong.com/images/posts/iconsandstuff.png)
 
 <br>
 
-[![5](/images/posts/hackville2.png)](https://wilsontruong.com/images/posts/hackville2.png)
+[![5](/images/posts/hackville1.png)](https://wilsontruong.com/images/posts/hackville1.png)
 
 <br>
 
-[![6](/images/posts/visual1.gif)](https://wilsontruong.com/images/posts/visual1.gif)
+[![6](/images/posts/hackville2.png)](https://wilsontruong.com/images/posts/hackville2.png)
 
 <br>
 
-[![7](/images/posts/visual2.gif)](https://wilsontruong.com/images/posts/visual2.gif)
+[![7](/images/posts/visual1.gif)](https://wilsontruong.com/images/posts/visual1.gif)
 
 <br>
 
-[![8](/images/posts/visual3.png)](https://wilsontruong.com/images/posts/visual3.png)
+[![8](/images/posts/visual2.gif)](https://wilsontruong.com/images/posts/visual2.gif)
 
 <br>
 
-[![9](/images/posts/visual4.jpg)](https://wilsontruong.com/images/posts/visual4.jpg)
+[![9](/images/posts/visual3.png)](https://wilsontruong.com/images/posts/visual3.png)
 
 <br>
 
-[![10](/images/posts/visual5.png)](https://wilsontruong.com/images/posts/visual5.png)
+[![10](/images/posts/visual4.jpg)](https://wilsontruong.com/images/posts/visual4.jpg)
+
+<br>
+
+[![11](/images/posts/visual5.png)](https://wilsontruong.com/images/posts/visual5.png)
 
 <br>
