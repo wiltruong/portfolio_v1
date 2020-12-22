@@ -19,11 +19,11 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
-[![3](/images/posts/kitty.png)](https://wilsontruong.com/images/posts/kitty.png)
+[![3](/images/posts/iconsandstuff.png)](https://wilsontruong.com/images/posts/iconsandstuff.png)
 
 <br>
 
-[![4](/images/posts/iconsandstuff.png)](https://wilsontruong.com/images/posts/iconsandstuff.png)
+[![4](/images/posts/kitty.png)](https://wilsontruong.com/images/posts/kitty.png)
 
 <br>
 
