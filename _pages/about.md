@@ -12,6 +12,15 @@ I’m a third year, Interaction Design student at Sheridan College. I have a bac
 
 <br>
 
+If you like to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long)
+
+<br>
+
+<iframe src="https://player.vimeo.com/video/475643912" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/475643912">IXD11322_20_ASSIGN0202_Truong_Wilson</a> from <a href="https://vimeo.com/user96387918">Wilson Truong</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<br>
+
 <h1>My design philosophy</h1>
 
 > Thinking about everyone and everyone in-between.
