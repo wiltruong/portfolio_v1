@@ -12,7 +12,7 @@ I’m a third year, Interaction Design student at Sheridan College. I have a bac
 
 <br>
 
-If you like to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long)
+If you want to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long)
 
 <br>
 
