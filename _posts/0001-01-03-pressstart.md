@@ -2,7 +2,7 @@
 layout: post
 title: Press Start, a simple way to recommend games to new gamers.
 tags: [UI, UX, Visual Design]
-image: '/images/posts/strt1.png'
+image: '/images/posts/strt12.png'
 permalink: /pressstart/
 ---
 
